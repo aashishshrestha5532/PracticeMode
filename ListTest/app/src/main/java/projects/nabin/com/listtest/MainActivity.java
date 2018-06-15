@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
             hashMap.put("popn", "23232");
             modelList.add(hashMap);
         }
+        //this is a test one
 //        model=new ExampleModel("Pokhara","3578688");
 //        model=new ExampleModel("BUTWAL","78088");
 //        model=new ExampleModel("DhARAn","78088");
